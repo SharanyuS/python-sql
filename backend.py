@@ -45,9 +45,3 @@ def update(id,name,price,quantity):
     conn.close()
 
 connect()
-#update(21,"stellseries",25000,65)
-#insert(2,"genegr",21,992)
-print(view())
-#print(search(quantity=1))
-#delete(2121)
-print(search(id=21))
