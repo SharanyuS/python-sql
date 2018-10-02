@@ -1,0 +1,2 @@
+before i could not open the exe file i created using pyinstaller due to unavailability of pyinstaller in python 3.7,
+but recently python released a new pyinstaller update which is suported in python 3.7 ^_^
